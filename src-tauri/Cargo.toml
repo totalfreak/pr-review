@@ -1,6 +1,6 @@
 [package]
 name = "stroll"
-version = "0.6.1"
+version = "0.6.2"
 description = "Guided, step-by-step GitHub Pull Request review desktop app"
 authors = ["Daniel"]
 license = "MIT"
